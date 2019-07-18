@@ -5,7 +5,6 @@ import ru.sahlob.observable.quack.Quack;
 
 public class RedheadDuck extends Duck {
 
-
     public RedheadDuck() {
         quackBehavior = new Quack();
         flyBehavior = new FlyWithWings();
