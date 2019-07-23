@@ -1,4 +1,4 @@
-package ru.sahlob.observable.fly;
+package ru.sahlob.strategy.fly;
 
 public class FlyWithWings implements  FlyBehavior {
 

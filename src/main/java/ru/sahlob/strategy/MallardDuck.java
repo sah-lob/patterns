@@ -1,7 +1,7 @@
-package ru.sahlob.observable;
+package ru.sahlob.strategy;
 
-import ru.sahlob.observable.fly.FlyWithWings;
-import ru.sahlob.observable.quack.Quack;
+import ru.sahlob.strategy.fly.FlyWithWings;
+import ru.sahlob.strategy.quack.Quack;
 
 public class MallardDuck extends Duck {
 

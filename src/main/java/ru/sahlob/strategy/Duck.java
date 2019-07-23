@@ -1,7 +1,7 @@
-package ru.sahlob.observable;
+package ru.sahlob.strategy;
 
-import ru.sahlob.observable.fly.FlyBehavior;
-import ru.sahlob.observable.quack.QuackBehavior;
+import ru.sahlob.strategy.fly.FlyBehavior;
+import ru.sahlob.strategy.quack.QuackBehavior;
 
 public abstract class Duck {
 

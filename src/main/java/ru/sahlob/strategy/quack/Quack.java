@@ -1,4 +1,4 @@
-package ru.sahlob.observable.quack;
+package ru.sahlob.strategy.quack;
 
 public class Quack implements QuackBehavior {
 
