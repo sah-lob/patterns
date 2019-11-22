@@ -1,4 +1,4 @@
-package ru.sahlob.observer.weatherStation;
+package ru.sahlob.observer.weatherstation;
 
 public interface Subject {
     void registerObserver(Observer observer);

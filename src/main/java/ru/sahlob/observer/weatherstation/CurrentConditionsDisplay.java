@@ -1,4 +1,4 @@
-package ru.sahlob.observer.weatherStation;
+package ru.sahlob.observer.weatherstation;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 
